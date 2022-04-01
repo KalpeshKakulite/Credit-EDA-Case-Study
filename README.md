@@ -57,7 +57,7 @@ To develop your understanding of the domain, you are advised to independently re
 5. Handling Null Values
 6. Exploratory Data Analysis (EDA)
 
-**Libraries Used: **
+**Libraries Used:** 
 1. NumPy as np
 2. Pandas as pd
 3. Matplotlib.pyplot as plt
