@@ -69,3 +69,4 @@ To develop your understanding of the domain, you are advised to independently re
 3. The previous application pension has the highest and most positive effect: (a) The customer asked how much for a previous application (b) The final amount of debt on a previous application approved by the bank (c) The price of good goods the client requested in the previous application.
 4. How much the client has requested in the previous application is largely influenced by the price of Good Goods the client has requested in the previous application
 5. The final amount of credit previously issued to the customer, after approval has a significant effect on the amount of the application and the amount of good assets that the client requested in the previous application. 
+**Credit:** Kritika Bagri
