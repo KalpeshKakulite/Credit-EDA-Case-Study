@@ -70,3 +70,7 @@ To develop your understanding of the domain, you are advised to independently re
 5. The final amount of credit previously issued to the customer, after approval has a significant effect on the amount of the application and the amount of good assets that the client requested in the previous application. 
 
 **Credit:** Kritika Bagri
+
+![image](https://user-images.githubusercontent.com/90130378/161399938-1be02d3b-880f-442a-82de-d62a835e2067.png)
+![image](https://user-images.githubusercontent.com/90130378/161399960-66e5e437-e326-4e2d-b494-6360f82b3b0e.png)
+
