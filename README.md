@@ -49,7 +49,6 @@ In other words, the company wants to understand the driving factors (or driver v
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics - understanding the types of variables and their significance should be enough).
 
 **Steps Involved:**
-
 1. Importing Libraries
 2. Loading and Analysing the DATA
 3. Data Cleaning & Manipulation
@@ -69,4 +68,5 @@ To develop your understanding of the domain, you are advised to independently re
 3. The previous application pension has the highest and most positive effect: (a) The customer asked how much for a previous application (b) The final amount of debt on a previous application approved by the bank (c) The price of good goods the client requested in the previous application.
 4. How much the client has requested in the previous application is largely influenced by the price of Good Goods the client has requested in the previous application
 5. The final amount of credit previously issued to the customer, after approval has a significant effect on the amount of the application and the amount of good assets that the client requested in the previous application. 
+
 **Credit:** Kritika Bagri
