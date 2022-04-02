@@ -73,4 +73,7 @@ To develop your understanding of the domain, you are advised to independently re
 
 ![image](https://user-images.githubusercontent.com/90130378/161399938-1be02d3b-880f-442a-82de-d62a835e2067.png)
 ![image](https://user-images.githubusercontent.com/90130378/161399960-66e5e437-e326-4e2d-b494-6360f82b3b0e.png)
+![image](https://user-images.githubusercontent.com/90130378/161400017-cc71080e-15d4-4525-86c8-c43ec324f4ed.png)
+![image](https://user-images.githubusercontent.com/90130378/161400103-105a4e5b-d9d3-4103-ad82-dcdac439c16c.png)
+
 
